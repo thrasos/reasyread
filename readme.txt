@@ -2,7 +2,7 @@
 
 Theme Name: Easyread
 Theme URI: http://thrasos.net/Easyread/
-Version: 1.0.2
+Version: 0.0.2
 Tested up to: WP 4.4
 
 Author: Thrasos
@@ -18,16 +18,17 @@ Easyread WordPress theme is distributed under the terms of the GNU GPL
 Licensed under GPLv2 license
 
 Easyread theme uses:
-* FontAwesome (http://fontawesome.io) licensed under the SIL OFL 1.1 (http://scripts.sil.org/OFL)
+
 * Bootstrap and GLYPHICONS Halflings (http://getbootstrap.com/) licensed under MIT license (https://github.com/twbs/bootstrap/blob/master/LICENSE)
 * WP-Bootstrap-NavWalker licensed under the GPLv2 license (http://www.gnu.org/licenses/gpl-2.0.html)
 * FlexSlider by WooThemes licensed under the GPLv2 license (http://www.gnu.org/licenses/gpl-2.0.html)
 * Modernizr (https://github.com/Modernizr/Modernizr) licensed under MIT license
+* Latex fonts: Donald Knuth's Computer Modern are under the SIL Open Font License 1.1(FOSS for Fonts) from here http://checkmyworking.com/cm-web-fonts/
 
 
 /*========= Description =========*/
 
-Easyread is a clean and minimal WordPress blog theme with premium look and feel well suited for writing, travel, lifestyle, sports and whatever. This theme features WooCommerce integration that allows you to create fully functional eCommerce website side by side with your blog. This theme has several customization options that are available WordPress Theme Customizer. Theme is also multilingual ready and translated in several languages. This easy to read blog theme has some SEO friendliness, so grand search engine monopolies might find you.
+Easyread is a clean and minimal WordPress blog theme that uses the famous Donand Knuth's Computer Modern Latex Font. It's so good-looking that some scientists do research just so they can write it up in Computer Modern. This theme has several customization options that are available WordPress Theme Customizer. SEO Friendly and Supports Languages and Woocommerce.
 
 For questions, comments or thank yous, visit  (http://thrasos.net).
 
@@ -51,5 +52,6 @@ Alternatively you can download the file, unzip it and move the unzipped contents
 * Threaded Comments
 * Gravatar ready
 * Featured slider
-* Font Awesome icons
+* Computer Modern
+
 
